@@ -1,0 +1,34 @@
+# Python
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+venv/
+researchagent/
+*.egg-info/
+dist/
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Installers
+*.msi
+*.exe
+*.dmg
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Duplicate src folder (wrong location)
+/src/
